@@ -1,6 +1,8 @@
-package com.aviel.gameinvest
+package com.aviel.gameinvest.gameRecordGateaway
 
-interface GameRecordGateaway {
+import com.aviel.gameinvest.GameRecord
+
+interface GameRecordGateway {
     fun addGameRecord(gameRecord: GameRecord)
     fun deleteGameRecord(gameRecord: GameRecord)
     fun findAll(): List<GameRecord>

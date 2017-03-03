@@ -1,8 +1,9 @@
 package com.aviel.gameinvest
 
-import org.junit.Assert.assertTrue
+import com.aviel.gameinvest.gameRecordGateaway.GameRecordMemoryStorage
 import org.hamcrest.CoreMatchers.`is`
 import org.hamcrest.MatcherAssert.assertThat
+import org.junit.Assert.assertTrue
 import org.junit.Before
 import org.junit.Test
 import java.time.LocalDate

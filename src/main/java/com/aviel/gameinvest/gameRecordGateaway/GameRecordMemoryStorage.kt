@@ -1,6 +1,8 @@
-package com.aviel.gameinvest
+package com.aviel.gameinvest.gameRecordGateaway
 
-class GameRecordMemoryStorage : GameRecordGateaway {
+import com.aviel.gameinvest.GameRecord
+
+class GameRecordMemoryStorage : GameRecordGateway {
 
     val games: MutableList<GameRecord> = mutableListOf()
 
