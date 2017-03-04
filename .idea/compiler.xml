@@ -2,8 +2,12 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel>
+      <module name="GameInvest_main" target="1.8" />
       <module name="gameinvest_main" target="1.5" />
+      <module name="GameInvest_test" target="1.8" />
       <module name="gameinvest_test" target="1.5" />
+      <module name="GameRecordMongoDB_main" target="1.8" />
+      <module name="GameRecordMongoDB_test" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
