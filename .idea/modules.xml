@@ -3,6 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/GameInvest/GameInvest.iml" filepath="$PROJECT_DIR$/.idea/modules/GameInvest/GameInvest.iml" group="GameInvest" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/GameInvestRest/GameInvestRest.iml" filepath="$PROJECT_DIR$/.idea/modules/GameInvestRest/GameInvestRest.iml" group="GameInvestRest" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/GameInvestRest/GameInvestRest_main.iml" filepath="$PROJECT_DIR$/.idea/modules/GameInvestRest/GameInvestRest_main.iml" group="GameInvestRest" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/GameInvestRest/GameInvestRest_test.iml" filepath="$PROJECT_DIR$/.idea/modules/GameInvestRest/GameInvestRest_test.iml" group="GameInvestRest" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/GameInvest/GameInvest_main.iml" filepath="$PROJECT_DIR$/.idea/modules/GameInvest/GameInvest_main.iml" group="GameInvest" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/GameInvest/GameInvest_test.iml" filepath="$PROJECT_DIR$/.idea/modules/GameInvest/GameInvest_test.iml" group="GameInvest" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/GameRecordMongoDB/GameRecordMongoDB.iml" filepath="$PROJECT_DIR$/.idea/modules/GameRecordMongoDB/GameRecordMongoDB.iml" group="GameRecordMongoDB" />

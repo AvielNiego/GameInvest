@@ -10,6 +10,7 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/GameInvest" />
+            <option value="$PROJECT_DIR$/GameInvestRest" />
             <option value="$PROJECT_DIR$/GameRecordMongoDB" />
           </set>
         </option>

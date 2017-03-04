@@ -6,6 +6,8 @@
       <module name="gameinvest_main" target="1.5" />
       <module name="GameInvest_test" target="1.8" />
       <module name="gameinvest_test" target="1.5" />
+      <module name="GameInvestRest_main" target="1.8" />
+      <module name="GameInvestRest_test" target="1.8" />
       <module name="GameRecordMongoDB_main" target="1.8" />
       <module name="GameRecordMongoDB_test" target="1.8" />
     </bytecodeTargetLevel>

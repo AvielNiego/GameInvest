@@ -6,7 +6,7 @@ class GameRecordMongoDBTest {
 
     @Test
     fun connect() {
-        GameRecordMongoDB().connect("avielniego", "Python46")
+
     }
 
 }
